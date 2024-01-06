@@ -2,14 +2,14 @@
 using namespace std;
 int main(){
 
-    // cout <<"Bitwise And Operators" <<endl;
-    //  cout<<"___________________________________"<<endl;
+    cout <<"Bitwise And Operators" <<endl;
+     cout<<"___________________________________"<<endl;
 
 
-    // int a= true;
-    // int b= false;
+    int a= true;
+    int b= false;
 
-    // cout << ( a & b ) << endl;
+    cout << ( a & b ) << endl;
 
 
 
@@ -133,18 +133,18 @@ int main(){
 
 
 
-    cout <<"Continue"<<endl;
-    cout<<"___________________________________"<<endl;
+    // cout <<"Continue"<<endl;
+    // cout<<"___________________________________"<<endl;
 
-    for(int i=0; i<5; i++)
-    {
+    // for(int i=0; i<5; i++)
+    // {
         
-        continue;
-        cout << i <<endl;
+    //     continue;
+    //     cout << i <<endl;
 
         
 
-    }
+    // }
     
 
 
